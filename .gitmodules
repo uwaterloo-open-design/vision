@@ -1,0 +1,12 @@
+[submodule "nasa-vision-work-bench"]
+	path = nasa-vision-work-bench
+	url = https://github.com/nasa/visionworkbench.git
+[submodule "vision-resource-kit"]
+	path = vision-resource-kit
+	url = https://github.com/jbhuang0604/awesome-computer-vision.git
+[submodule "ccv"]
+	path = ccv
+	url = https://github.com/liuliu/ccv.git
+[submodule "opencv"]
+	path = opencv
+	url = https://github.com/Itseez/opencv.git
